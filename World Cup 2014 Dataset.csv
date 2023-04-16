@@ -1,0 +1,53 @@
+Team,Group,"Previous 
+appearances","Previous 
+titles","Previous
+ finals","Previous
+ semifinals","Current 
+FIFA rank","First match 
+against",Match index,"history with 
+first opponent
+ W-L","history with
+ first opponent
+ goals","Second match
+ against",Match index,"history with
+ second opponent
+ W-L","history with
+ second opponent
+ goals","Third match
+ against",Match index,"history with
+ third opponent
+ W-L","history with
+ third opponent
+ goals"
+Brazil,A,10,0,0,1,10,Croatia,1,-1,-2,Mexico,17,N/A,N/A,Cameroon,33,0,0
+Croatia,A,4,0,0,0,16,Brazil,1,1,2,Cameroon,18,1,1,Mexico,34,-5,-5
+Mexico,A,2,0,0,0,20,Cameroon,2,-1,-2,Brazil,17,N/A,N/A,Croatia,34,5,5
+Cameroon,A,12,2,2,5,51,Mexico,2,1,2,Croatia,18,-1,-1,Brazil,33,0,0
+Spain,B,6,0,0,2,1,Netherlands,3,-12,-31,Chile,19,-1,-2,Australia,35,2,5
+Netherlands,B,14,1,1,2,9,Spain,3,12,31,Australia,20,N/A,N/A,Chile,36,5,7
+Chile,B,4,0,0,0,15,Australia,4,-2,-2,Spain,19,1,2,Netherlands,36,-5,-7
+Australia,B,4,0,0,0,59,Chile,4,2,2,Netherlands,20,N/A,N/A,Spain,35,-2,-5
+Columbia,C,14,1,2,5,4,Greece,5,1,6,C?ted'Ivoire,21,-1,-1,Japan,37,4,9
+Greece,C,4,0,0,0,12,Columbia,5,-1,-6,Japan,22,-1,-3,C?ted'Ivoire,38,N/A,N/A
+C?ted'Ivoire,C,4,0,0,0,17,Japan,6,N/A,N/A,Columbia,21,1,1,Greece,38,N/A,N/A
+Japan,C,4,0,0,0,48,C?ted'Ivoire,6,N/A,N/A,Greece,22,1,3,Columbia,37,-4,-9
+Uruguay,D,16,2,5,5,6,Costarica,7,N/A,N/A,England,23,1,0,Italy,39,3,1
+Costarica,D,0,0,0,0,31,Uruguay,7,N/A,N/A,Italy,24,1,3,England,40,-3,-9
+England,D,4,0,0,1,13,Italy,8,N/A,N/A,Uruguay,23,-1,0,Costa Rica,40,3,9
+Italy,D,5,0,0,0,7,England,8,N/A,N/A,Costa Rica,24,-1,-3,Uruguay,39,-3,-1
+Switzerland,E,20,5,7,11,8,Ecuador,9,1,2,France,25,8,19,Honduras,41,1,1
+Ecuador,E,10,0,0,0,23,Switzerland,9,-1,-2,Honduras,26,N/A,N/A,France,42,0,1
+France,E,4,0,0,0,19,Honduras,10,N/A,N/A,Switzerland,25,-8,-19,Ecuador,42,0,-1
+Honduras,E,11,0,0,2,41,France,10,N/A,N/A,Ecuador,26,N/A,N/A,Switzerland,41,-1,-1
+Argentina,F,18,4,8,13,3,BosniaandHerzegovina,11,4,13,Iran,27,2,10,Nigeria,43,1,0
+BosniaandHerzegovina,F,15,0,0,0,21,Argentina,11,-4,-13,Nigeria,28,1,12,Iran,44,-2,-3
+Iran,F,11,0,1,4,45,Nigeria,12,1,2,Argentina,27,-2,-10,BosniaandHerzegovina,44,2,3
+Nigeria,F,9,0,0,1,36,Iran,12,-1,-2,BosniaandHerzegovina,28,-1,-10,Argentina,43,-1,0
+Germany,G,12,0,0,1,2,Portugal,13,N/A,N/A,Ghana,29,0,0,United States,45,-17,-70
+Portugal,G,0,0,0,0,5,Germany,13,N/A,N/A,United States,30,N/A,N/A,Ghana,46,N/A,N/A
+Ghana,G,4,0,0,0,24,United States,14,-1,-2,Germany,29,0,0,Portugal,46,N/A,N/A
+UnitedStates,G,14,1,1,2,14,Ghana,14,1,2,Portugal,30,N/A,N/A,Germany,45,17,70
+Belgium,H,7,0,0,2,11,Algeria,15,N/A,N/A,Russia,31,N/A,N/A,Korea,47,2,3
+Algeria,H,1,0,0,0,26,Belgium,15,N/A,N/A,Korea,32,2,3,Russia,48,0,0
+Russia,H,5,0,0,0,22,Korea,16,2,2,Belgium,31,N/A,N/A,Algeria,48,0,0
+Korea,H,5,0,0,0,54,Russia,16,-2,-2,Algeria,32,-2,-3,Belgium,47,-2,-3
